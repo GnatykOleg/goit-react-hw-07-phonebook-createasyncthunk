@@ -10,11 +10,22 @@ import {
   filterReducer,
 } from './contacts/contacts-reducer';
 
+import {
+  FLUSH,
+  REHYDRATE,
+  PAUSE,
+  PERSIST,
+  PURGE,
+  REGISTER,
+} from 'redux-persist';
+
 import logger from 'redux-logger';
 
 const middleware = [
   ...getDefaultMiddleware({
-    serializableCheck: {},
+    serializableCheck: {
+      ignoreActions: [FLUSH, REHYDRATE, PAUSE, PERSIST, PURGE, REGISTER],
+    },
   }),
 
   logger,
