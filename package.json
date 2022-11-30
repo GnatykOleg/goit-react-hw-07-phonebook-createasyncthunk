@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-07-phonebook-createasyncthunk",
+  "name": "reactphonebook-start-with-async-redux-createasyncthunk",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://GnatykOleg.github.io/goit-react-hw-07-phonebook-createasyncthunk/",
+  "homepage": "https://GnatykOleg.github.io/reactphonebook-start-with-async-redux-createasyncthunk/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@testing-library/jest-dom": "^5.16.3",
