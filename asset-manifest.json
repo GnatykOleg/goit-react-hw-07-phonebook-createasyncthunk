@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-07-phonebook-createasyncthunk/static/css/main.a39734b4.css",
-    "main.js": "/goit-react-hw-07-phonebook-createasyncthunk/static/js/main.696199d2.js",
-    "index.html": "/goit-react-hw-07-phonebook-createasyncthunk/index.html",
-    "main.a39734b4.css.map": "/goit-react-hw-07-phonebook-createasyncthunk/static/css/main.a39734b4.css.map",
-    "main.696199d2.js.map": "/goit-react-hw-07-phonebook-createasyncthunk/static/js/main.696199d2.js.map"
+    "main.css": "/reactphonebook-start-with-async-redux-createasyncthunk/static/css/main.a39734b4.css",
+    "main.js": "/reactphonebook-start-with-async-redux-createasyncthunk/static/js/main.5bec33c8.js",
+    "index.html": "/reactphonebook-start-with-async-redux-createasyncthunk/index.html",
+    "main.a39734b4.css.map": "/reactphonebook-start-with-async-redux-createasyncthunk/static/css/main.a39734b4.css.map",
+    "main.5bec33c8.js.map": "/reactphonebook-start-with-async-redux-createasyncthunk/static/js/main.5bec33c8.js.map"
   },
   "entrypoints": [
     "static/css/main.a39734b4.css",
-    "static/js/main.696199d2.js"
+    "static/js/main.5bec33c8.js"
   ]
 }
